@@ -1,7 +1,7 @@
 # Install Chromium
 
 ```
-https://raw.githubusercontent.com/Brrrskuy/Chromium/refs/heads/main/Chromium.sh && chmod +x Chromium.sh && ./Chromium.sh
+wget https://raw.githubusercontent.com/Brrrskuy/Chromium/refs/heads/main/Chromium.sh && chmod +x Chromium.sh && ./Chromium.sh
 ```
 # Guide
 
